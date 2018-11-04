@@ -1,0 +1,17 @@
+.custom-primary-color{
+	color:grey;
+}
+.custom-primary-color.hover{
+	color:black;
+}
+
+body {
+/*	font-family: 'Monoton', cursive;*/
+
+	font-family: 'Mali', cursive;
+}
+
+.font1{
+	font-family: 'Poor Story',cursive;
+
+}
